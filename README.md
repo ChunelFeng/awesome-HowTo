@@ -29,10 +29,22 @@
 
   How To Do Things
 ----
+* [zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source)
+  
+  Open Source guidance from Zalando, Europe's largest online fashion platform
+----
 * [howtographql](https://github.com/howtographql/howtographql)
 
   The Fullstack Tutorial for GraphQL
 ----
-* [zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source)
-  
-  Open Source guidance from Zalando, Europe's largest online fashion platform
+* [Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo)
+
+  A list of useful resources to learn Data Engineering from scratch
+----
+* [react-howto](https://github.com/petehunt/react-howto)
+
+  Your guide to the (sometimes overwhelming!) React ecosystem.
+----
+* [webpack-howto](https://github.com/petehunt/webpack-howto)
+
+  This is a cookbook of how to get things done with webpack. This includes most things we use at Instagram and nothing we don't use.

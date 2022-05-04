@@ -2,6 +2,8 @@
 
 > A curated list of awesome skills to help you go out of 35 crisis, and most important, to tell you how to enjoy your life.
 
+![HowToLogo](https://github.com/ChunelFeng/awesome-HowTo/blob/main/image/HowTo.jpeg)
+
 ----
 * [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
   

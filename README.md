@@ -20,11 +20,13 @@
 * [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) How to systematically secure anything: a repository about security engineering
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server.
 * [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) Below are some simple methods for exiting vim.
-* [how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) 跟我一起写Makefile重制版
 * [How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) I'm here to tell you some amazing stuff which teacher would never tell you.
+* [How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) 如何做好一枚程序员
 * [how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) This material was partially sponsored by grants from the National Science Foundation
-* [HowToTrainYourMAMLPytorch](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) The original code for the paper "How to train your MAML" along with a replication of the original "Model Agnostic Meta Learning" (MAML) paper in Pytorch.
 * [How-to-Predict-Stock-Prices-Easily-Demo](https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo) How to Predict Stock Prices Easily - Intro to Deep Learning #7 by Siraj Raval on Youtube
+* [HowToWriteGoodTestCases](https://github.com/robotframework/HowToWriteGoodTestCases) General guidelines for writing good test cases using Robot Framework
+* [how-to-read-code](https://github.com/aredridel/how-to-read-code) A talk about how to read source code
+* [how-to-code-samples](https://github.com/intel-iot-devkit/how-to-code-samples) These applications are code sample exercises using the Intel IoT Developer Kit, sensors, actuators, cloud platforms, and APIs.
 
 ----
 * [howtographql](https://github.com/howtographql/howtographql) The Fullstack Tutorial for GraphQL
@@ -33,6 +35,8 @@
 * [react-howto](https://github.com/petehunt/react-howto) Your guide to the (sometimes overwhelming!) React ecosystem.
 * [webpack-howto](https://github.com/petehunt/webpack-howto) This is a cookbook of how to get things done with webpack. This includes most things we use at Instagram and nothing we don't use.
 * [How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) 如何正确的学习Node.js
+* [HowToTrainYourMAMLPytorch](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) The original code for the paper "How to train your MAML" along with a replication of the original "Model Agnostic Meta Learning" (MAML) paper in Pytorch.
+* [how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) 跟我一起写Makefile重制版
 
 ----
 #### 联系方式
